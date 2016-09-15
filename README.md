@@ -1,6 +1,6 @@
 # Blog_in_a_tor
 
-> 
+> Stripped down blogging application built for future templating and deployment.
 
 ## Collaborators
 |   **Member**   |        **Role**       |
