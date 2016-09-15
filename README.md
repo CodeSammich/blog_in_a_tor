@@ -1,10 +1,12 @@
 # Blog_in_a_tor
 
+> 
+
 ## Collaborators
 |   **Member**   |        **Role**       |
 |:--------------:|:---------------------:|
 |Chun Hung Li    | User Experience       |
-|Dennis Yatunin  | ~~Backend~~ Everything|
+|Dennis Yatunin  | Backend               |
 |Dillon Zhang    | Middleware            |
 |Samuel Zhang    | Leader                |
 
